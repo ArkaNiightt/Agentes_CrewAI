@@ -2,9 +2,9 @@
 
 - Criar arquivo ENV: `OPENAI_API_KEY=INSIRA_AQUI_SUA_CHAVE_API`
 - Instalar DOTENV: `pip install python-dotenv`
-- Importar DOTENV: from dotenv import load_dotenv
-- Importar OS: import os
-- Carregar DOTENV: load_dotenv
+- Importar DOTENV: `from dotenv import load_dotenv`
+- Importar OS: `import os`
+- Carregar DOTENV: `load_dotenv()`
 
 ## Config MODELO LLM
 
